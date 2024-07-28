@@ -55,7 +55,7 @@ public class UserTest {
 
 		// log
 
-		logger.info("create user executed");
+		logger.info("create user executed. modify for jenkins test");
 
 	}
 
